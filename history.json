@@ -1,0 +1,67 @@
+[
+  {
+    "input": "Japanese salira",
+    "output": "Error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+    "type": "explain"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "Error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+    "type": "explain"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "Here are a few ideas for a short, catchy phrase related to Japanese sakura:\n\n1. \"Sakura Sweetness\"\n2. \"Petals of Pink Perfection\"\n3. \"Blossoming Joy\"\n4. \"The Sakura Spirit\"\n5. \"Falling into Beauty\"\n\nBut my top pick is:\n\n6. \"**Cherry On!**\" (a playful take on the phrase \"cherry on top,\" incorporating the Japanese cherry blossom)\n\nWhich one do you like best?",
+    "type": "ppt"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "[CATCH COPY]\nJapanese sakura - The future starts here.",
+    "type": "ppt"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "[SIMPLE PRESENTATION]\n- Japanese sakura\n- Key idea\n- Summary",
+    "type": "ppt"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "[LONG PRESENTATION]\n1. Introduction: Japanese sakura\n2. Background\n3. Key Points\n4. Strategy\n5. Conclusion",
+    "type": "ppt"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "[SIMPLE]\nJapanese sakura\n\nShort explanation.",
+    "type": "explain"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "[EXPLANATION]\nJapanese sakura\n\nThis is a clear explanation of the concept.",
+    "type": "explain"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "[DETAILED EXPLANATION]\nJapanese sakura\n\nThis concept is explained in depth with background and context.",
+    "type": "explain"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "Input too short to summarize.",
+    "type": "summary"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "",
+    "type": null
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "Japanese sakura",
+    "mode": "simple"
+  },
+  {
+    "input": "Japanese sakura",
+    "output": "Japanese sakura",
+    "mode": "long"
+  }
+]
